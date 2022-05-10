@@ -2,7 +2,10 @@
 <img src="https://user-images.githubusercontent.com/49370231/167707516-7a00b882-77a8-477e-b6a9-57e7c743a155.png" width="750">
 </p>
 
-This is an interactive educational tool intended to help illustrate the concept of convolution kernels used in convolutional neural networks.
+This is an interactive educational tool intended to help illustrate the concept of convolution kernels used in convolutional neural networks. 
+
+## Acknowledgements
+This teaching tool was developed to accompany AI outreach events supported in part by the U.S. National Science Foundation under Grants ECCS-2028624, DMR-2003325, and CISE-2105972 as well as support through Pitt Momentum Funds at the University of Pittsburgh.
 
 ## Installation
 Download the repository as a zip file and extract "convolutional-tetris-example.html" and "convolve.js" to the same folder. The html file should run directly in the browser as long as the js file is also in the same directory. Alternatively, the two files can also be uploaded to an existing webserver (for example: https://pitt-photonics.github.io/convolution_example/).
